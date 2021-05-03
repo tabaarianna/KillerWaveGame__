@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KillerWaveGame",
+"dataUrl": "Chp13.data.unityweb",
+"asmCodeUrl": "Chp13.asm.code.unityweb",
+"asmMemoryUrl": "Chp13.asm.memory.unityweb",
+"asmFrameworkUrl": "Chp13.asm.framework.unityweb",
+"TOTAL_MEMORY": 16777216,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
